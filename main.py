@@ -61,7 +61,7 @@ def keep():
 
 
 def main():
-    print("Welcome to currency converter\n1 ) \tConvert USD to ILS\n2 ) \tConvert ILS to USD")
+    print("Welcome to currency converter\n1) Convert USD to ILS\n2) Convert ILS to USD")
     get_user_value()
 
 
